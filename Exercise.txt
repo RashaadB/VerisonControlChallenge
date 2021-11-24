@@ -1,0 +1,14 @@
+1. Explain what the terminal is in your own words
+
+- The terminal is a command-line system that can help make changes and add files to my mac
+
+2. What is the major difference between Git and Github?
+
+- Git runs at the command line and uses repositories for and tracks the changes to the repos.
+can use it in a team environment, everyone can make their changes
+
+- Github is a website that allows me to upload my git repos online. 
+
+3. Why do we use Github?
+
+- To provide backup to my files and gives companies who would like to see my work a chance to navigate through my repos
